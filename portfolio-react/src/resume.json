@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Rashi Sahu",
+    "label": "Full-Stack Developer | Published Researcher",
+    "email": "rashisahu473@gmail.com",
+    "phone": "6307053258",
+    "location": {
+      "city": "Gwalior",
+      "region": "Madhya Pradesh",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/rashi-sahu-701b71320/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/rashi125"
+      }
+    ],
+    "summary": "Full-Stack Developer and published researcher, CSE undergraduate (CGPA: 8.58), skilled in building scalable web applications using React, MERN stack, and Firebase. Strong foundation in Data Structures and Algorithms, with 450+ problems solved across LeetCode and GeeksforGeeks."
+  },
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["JavaScript (ES6+)", "TypeScript", "Python", "C++", "SQL", "R"]
+    },
+    {
+      "name": "Frontend",
+      "keywords": ["React", "GSAP", "Locomotive.js", "HTML5", "CSS3"]
+    },
+    {
+      "name": "Backend",
+      "keywords": ["Node.js", "Express.js", "FastAPI", "REST APIs", "Firebase"]
+    },
+    {
+      "name": "Databases & Tools",
+      "keywords": ["MongoDB", "Git", "GitHub", "Postman", "Render", "Deployment Workflows"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Akshar Mitra - AI-Assisted Dyslexia Detection Platform",
+      "roles": ["Full-Stack Developer"],
+      "keywords": ["React", "FastAPI", "MongoDB"],
+      "url": "https://github.com/rashi125/Akshar",
+      "summary": "Developed scalable frontend and backend modules for an AI-assisted learning platform. Published research paper and hackathon-winning solution."
+    },
+    {
+      "name": "Mental Health Platform",
+      "roles": ["Full-Stack Developer"],
+      "keywords": ["React", "TypeScript", "Firebase"],
+      "url": "https://github.com/Shiva-005/The-Beacons-A-Clear-Path-in-Uncertain-times.git",
+      "summary": "Built modular UI components, implemented Firebase authentication and real-time database features, designed responsive layouts."
+    },
+    {
+      "name": "Job Search Platform",
+      "roles": ["Full-Stack Developer"],
+      "keywords": ["React", "TypeScript", "Firebase"],
+      "url": "https://github.com/rashi125/job",
+      "summary": "Developed job listing pages with filters, search, and sorting functionality. Improved performance and scalability."
+    },
+    {
+      "name": "Frontend Projects (GSAP Clone, Bubble Game)",
+      "roles": ["Frontend Developer"],
+      "keywords": ["JavaScript", "GSAP"],
+      "url": "https://github.com/rashi125/TWO-GOOD-CO",
+      "summary": "Built animation-driven interfaces and interactive browser-based games."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Madhav Institute of Technology and Science, Gwalior",
+      "area": "Computer Science & Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2023",
+      "endDate": "2027",
+      "score": "CGPA: 8.58"
+    },
+    {
+      "institution": "Rani Laxmibai Public School",
+      "area": "Senior Secondary (ISC)",
+      "studyType": "12th Grade",
+      "endDate": "2023",
+      "score": "92%"
+    },
+    {
+      "institution": "Rani Laxmibai Public School",
+      "area": "Secondary (ICSE)",
+      "studyType": "10th Grade",
+      "endDate": "2021",
+      "score": "96%"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Published Research Paper",
+      "date": "2025",
+      "summary": "SCIE publication: 'Akshar Mitra: A Multimodal Integrated Framework for Early Dyslexia Detection'"
+    },
+    {
+      "title": "Runner Up - IITM Gwalior Hackathon",
+      "date": "2025"
+    },
+    {
+      "title": "HackerRank SQL Certification",
+      "summary": "Silver Badge (Top 4%)"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "GfG 160 - 160 Days of Problem Solving"
+    }
+  ]
+}
