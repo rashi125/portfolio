@@ -48,7 +48,7 @@ async def chat_with_resume(request: ChatRequest):
             messages=[
                 {
                     "role": "system", 
-                    "content": f"You are Rohit's AI assistant. Answer based on this data: {json.dumps(resume_data)}. If not found, suggest contacting Rohit."
+                    "content": f"I am Rashi Sahu's AI assistant. Answer based on this data: {json.dumps(resume_data)}. If not found, suggest contacting Rohit."
                 },
                 {"role": "user", "content": request.message}
             ]

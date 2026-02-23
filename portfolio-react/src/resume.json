@@ -112,5 +112,14 @@
     {
       "name": "GfG 160 - 160 Days of Problem Solving"
     }
+  ],
+  "research-papers": [
+    {
+      "title": "Akshar Mitra: A Multimodal Integrated Framework for Early Dyslexia Detection",
+      "publication": "SCIE Journal",
+      "date": "2025",
+      "summary": "Proposed a novel framework combining multimodal data and machine learning for early dyslexia detection, achieving high accuracy and potential for real-world applications.",
+      "link": "https://lnkd.in/eDMfgyYP"
+    }
   ]
 }
