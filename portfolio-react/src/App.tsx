@@ -102,7 +102,7 @@ function App() {
     setInput("");
     setLoading(true);
     try {
-      const res = await axios.post("http://127.0.0.1:8000/chat", { message: input });
+      const res = await axios.post("https://portfolio-backend-qk8x.onrender.com/chat", { message: input });
       setMessages((prev) => [...prev, { role: "assistant", content: res.data.response }]);
     } catch (err) {
       setMessages((prev) => [...prev, { role: "assistant", content: "Backend error! Is main.py running?" }]);
